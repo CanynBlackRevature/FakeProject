@@ -1,5 +1,7 @@
 line added before by main
 
+login feature addition
+
 This is my super awesome login implementation!
 
 another line added by main
